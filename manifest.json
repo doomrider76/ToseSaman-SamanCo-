@@ -1,0 +1,49 @@
+{
+  "name": "TOSE SAMAN",
+  "short_name": "TOSE SAMAN",
+  "description": "دانلود رسمی پیام‌رسان گپ و شبکه اجتماعی ویراستی — شرکت توسعه سامان",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#060910",
+  "theme_color": "#060910",
+  "categories": ["productivity", "social", "utilities"],
+  "icons": [
+    {
+      "src": "SamanCo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "SamanCo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "SamanCo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "دانلود گپ",
+      "short_name": "گپ",
+      "url": "https://doomrider76.github.io/GapMessenger/",
+      "icons": [{ "src": "Gap.png", "sizes": "96x96", "type": "image/png" }]
+    },
+    {
+      "name": "دانلود ویراستی",
+      "short_name": "ویراستی",
+      "url": "https://doomrider76.github.io/VirastyFake-PublicApps/",
+      "icons": [{ "src": "Virasty.png", "sizes": "96x96", "type": "image/png" }]
+    }
+  ]
+}
