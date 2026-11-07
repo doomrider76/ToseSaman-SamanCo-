@@ -1,7 +1,7 @@
 /* ============================================================
    Service Worker — Saman Dev PWA
    ============================================================ */
-const CACHE_NAME = "saman-dev-v1";
+const CACHE_NAME = "saman-dev-v2";
 const ASSETS = [
   "./",
   "./index.html",
