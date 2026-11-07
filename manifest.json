@@ -9,8 +9,8 @@
   "display": "standalone",
   "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
   "orientation": "portrait-primary",
-  "background_color": "#060910",
-  "theme_color": "#060910",
+  "background_color": "#070b16",
+  "theme_color": "#070b16",
   "categories": ["productivity", "social", "utilities"],
   "icons": [
     {
